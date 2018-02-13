@@ -1,0 +1,22 @@
+.heroes {
+    cursor: pointer;
+}
+
+.close_button {
+    border: 1px solid rgba(0, 0, 59, 0.5);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 2px 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+.close_button:hover {
+    background: rgba(0, 0, 59, 0.5);
+    color: white;
+}
+
+.hero_name {
+    display: inline-block;
+}
